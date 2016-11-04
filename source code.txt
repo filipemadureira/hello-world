@@ -1,0 +1,11 @@
+function1()
+{
+	just one line;
+}
+
+
+
+function2()
+{
+	just another line;
+}
