@@ -9,4 +9,5 @@ function1()
 function2()
 {
 	just another line;
+	another in the second;
 }
