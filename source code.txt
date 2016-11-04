@@ -2,6 +2,7 @@ function1()
 {
 	just one line;
 	and I added another line;
+	good work;
 }
 
 
@@ -9,5 +10,5 @@ function1()
 function2()
 {
 	just another line;
-	another in the second;
+	super2;
 }
