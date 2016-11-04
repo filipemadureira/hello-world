@@ -1,6 +1,7 @@
 function1()
 {
 	just one line;
+	and I added another line;
 }
 
 
