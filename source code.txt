@@ -8,7 +8,7 @@ function1()
 
 function2()
 {
-	smart 1;
+	smart 1;yes;
 	just another line;
 	another in the second;
 }
