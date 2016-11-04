@@ -1,13 +1,14 @@
 function1()
 {
 	just one line;
-	and I added another line;
+	super1;
 }
 
 
 
 function2()
 {
+	smart 1;
 	just another line;
 	another in the second;
 }
